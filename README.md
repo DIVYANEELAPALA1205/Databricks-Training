@@ -1,1 +1,1 @@
-# Databricks-Training
+# Capgemini Databricks Training
