@@ -390,61 +390,49 @@ Week1/
 * MySQL 8.0
 * SQL YouTube Playlist
 
-📘 Day 5 – Advanced SQL Queries & Window Functions
-College Management System (CMS)
+📘 Day 5 – Advanced SQL Queries
 
-Welcome to Day 5 of the SQL practice series.
-This module focuses on mastering advanced SQL querying techniques using a real-world College Management System Database.
+This practice set focuses on advanced SQL concepts using the College Management System (CMS) database.
 
-The practice set is designed to strengthen analytical thinking and improve understanding of Window Functions, Ranking Functions, Subqueries, and Report Generation in SQL.
-
-🚀 Objectives
-
-By completing this practice set, you will learn how to:
-
-Perform advanced data analysis using SQL
-Use Window Functions effectively
-Generate ranking-based reports
-Work with cumulative calculations
-Compare grouped data using subqueries
-Build analytical reports from multiple tables
-Solve real-world database problems
-🛠 Database Used
-College Management System (CMS)
-
-The database contains the following tables:
-
-Table Name	Description
-Department	Stores department details
-Staff	Stores faculty/staff information
-Student	Stores student records
-Subject	Stores subject information
-Mark	Stores exam marks and results
-📚 Topics Covered
-🔹 Aggregate Functions
-SUM()
-AVG()
-COUNT()
-MAX()
-🔹 Grouping & Filtering
-GROUP BY
-HAVING
-Nested Queries
-🔹 Window Functions
+🚀 Topics Covered
+Aggregate Functions
+GROUP BY & HAVING
+Subqueries
+Window Functions
+Ranking Functions
+Analytical Queries
+🛠 Window Functions Used
 ROW_NUMBER()
 RANK()
 DENSE_RANK()
 NTILE()
-PERCENT_RANK()
-CUME_DIST()
 LAG()
 LEAD()
-🔹 Analytical SQL
-Running Totals
-Department-wise Analysis
-Ranking Systems
-Subject-wise Comparisons
-Cumulative Averages
+PERCENT_RANK()
+CUME_DIST()
+📚 Queries Included
+Department-wise salary analysis
+Student performance analysis
+Ranking students by CGPA
+Running totals & cumulative averages
+Top scoring students
+Subject average comparisons
+Previous & next exam marks
+Analytical report generation
+🗂 Database Tables
+Department
+Staff
+Student
+Subject
+Mark
+🎯 Learning Outcome
+Understand advanced SQL querying
+Work with analytical/window functions
+Generate ranking and report-based queries
+Improve SQL problem-solving skills
+💻 Technologies Used
+SQL
+MySQL / PostgreSQL
 
 
 
