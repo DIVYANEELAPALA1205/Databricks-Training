@@ -40,10 +40,8 @@ REGEX filtering
 string manipulations
 real-time SQL problem solving
 ⚙️ Where to Start
-
-Start with Week-1 for SQL foundations.
-Move to Week-2 for SQL functions practice.
-Explore Week-3 for window functions and analytical SQL queries.
-
+Start with Week-1 for SQL foundations
+Move to Week-2 for SQL functions practice
+Explore Week-3 for window functions and analytical SQL queries
 👩‍💻 Author
 N.Divya Sree
