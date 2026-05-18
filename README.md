@@ -21,6 +21,7 @@ It includes SQL fundamentals, joins, analytical queries, SQL functions, window f
 ├── Week-2/
 ├── Week-3/
 └── README.md
+---
 📚 Quick Glimpse
 Week-1 (SQL Foundations)
 Day-1: SQL Basics & Database Concepts
@@ -28,6 +29,7 @@ Day-2: SQL Clauses & Operators
 Day-3: SQL JOIN Operations
 Day-4: Window Functions & CTEs
 Day-5: Advanced SQL Queries
+---
 Week-2 (SQL Functions Practice)
 Day-1: Date Manipulation Functions
 Day-2: NULL Functions
@@ -35,8 +37,10 @@ Day-3: Number Manipulation Functions
 Day-4: REGEX
 Day-5: NULL Value Handling
 Day-6: String Functions
+---
 Week-3 (Window Functions Practice)
 Day-1: Window Functions
+---
 🧠 Skills Snapshot
 SQL query writing
 joins and aggregations
@@ -47,6 +51,7 @@ NULL handling
 REGEX filtering
 string manipulations
 real-time SQL problem solving
+---
 ⚙️ Where to Start
 
 Start with Week-1 for SQL foundations.
@@ -55,3 +60,4 @@ Explore Week-3 for window functions and analytical SQL queries.
 
 👩‍💻 Author
 N.Divya Sree
+
