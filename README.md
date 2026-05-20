@@ -47,6 +47,7 @@ It includes SQL fundamentals, joins, analytical queries, SQL functions, window f
 ## Week-3 (Window Functions Practice)
 
 - Day-1: Window Functions
+- Day-2: Read CSV by using spark
 
 ---
 
