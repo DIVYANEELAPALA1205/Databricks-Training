@@ -84,7 +84,7 @@ This assignment helped in understanding core PySpark concepts and DataFrame tran
 
 
 
-## 📅 Day-1
+## 📅 Day-4
 
 # 🚀 SQL to PySpark – Phase 3 ETL Pipeline
 
